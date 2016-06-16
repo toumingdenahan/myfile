@@ -7,3 +7,5 @@ There are some changes.
 
 
 Heool world!
+
+Creating a new branch is quick & simple.
